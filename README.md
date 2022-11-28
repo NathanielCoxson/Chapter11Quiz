@@ -7,4 +7,8 @@ for a limited amount of time before you have to let it go and
 maybe never see it again.
 
 Repository link: https://github.com/NathanielCoxson/Chapter11Quiz <br> 
-Live Site: https://cuteanimalpics.netlify.app/
+Live Site: https://cuteanimalpics.netlify.app/ <br>
+
+The script for user interaction is just a simple button that pulls and displays an image for a limited
+time period. The images themselves are pulled from two different APIs, a random cat image API at https://api.thecatapi.com, and
+a random dog image API at https://dog.ceo/dog-api/.

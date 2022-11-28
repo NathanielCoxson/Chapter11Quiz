@@ -11,4 +11,4 @@ Live Site: https://cuteanimalpics.netlify.app/ <br>
 
 The script for user interaction is just a simple button that pulls and displays an image for a limited
 time period. The images themselves are pulled from two different APIs, a random cat image API at https://api.thecatapi.com, and
-a random dog image API at https://dog.ceo/dog-api/.
+a random dog image API at https://dog.ceo/dog-api/, neither of which require an API key to get a random image.

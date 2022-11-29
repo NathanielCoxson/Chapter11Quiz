@@ -8,6 +8,8 @@ maybe never see it again.
 
 Repository link: https://github.com/NathanielCoxson/Chapter11Quiz <br> 
 Live Site: https://cuteanimalpics.netlify.app/ <br>
+The live site can be used to test the site without having to run it locally. Otherwise,
+you just need to open index.html to view it.
 
 The script for user interaction is just a simple button that pulls and displays an image for a limited
 time period. The images themselves are pulled from two different APIs, a random cat image API at https://api.thecatapi.com, and
